@@ -1,0 +1,6 @@
+C:\Users\Istalri Skolir\Documents\Visual Studio Projects\HWE Calculator\HWE Calculator\bin\Release\HWE Calculator.exe.config
+C:\Users\Istalri Skolir\Documents\Visual Studio Projects\HWE Calculator\HWE Calculator\bin\Release\HWE Calculator.exe
+C:\Users\Istalri Skolir\Documents\Visual Studio Projects\HWE Calculator\HWE Calculator\bin\Release\HWE Calculator.pdb
+C:\Users\Istalri Skolir\Documents\Visual Studio Projects\HWE Calculator\HWE Calculator\obj\Release\HWE Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Istalri Skolir\Documents\Visual Studio Projects\HWE Calculator\HWE Calculator\obj\Release\HWE Calculator.exe
+C:\Users\Istalri Skolir\Documents\Visual Studio Projects\HWE Calculator\HWE Calculator\obj\Release\HWE Calculator.pdb
